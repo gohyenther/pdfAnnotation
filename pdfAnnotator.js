@@ -527,7 +527,7 @@ function deleteSelectedObject(event) {
 
 
 function savePDF() {
-  pdf.savePdf('reerReviewed.pdf'); // save with given file name
+  pdf.savePdf('peerReviewed.pdf'); // save with given file name
 }
 
 
